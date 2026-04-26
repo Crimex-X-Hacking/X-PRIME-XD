@@ -7,8 +7,8 @@ async function helpCommand(sock, chatId, message) {
 ╔═══════════════════╗
    *🤖 ${settings.botName || 'XPrime-XD'}*  
    Version: *${settings.version || '3.0.0'}*
-   by ${settings.botOwner || 'Your Soumik'}
-   DEV: ${global.ytch}
+   By ${settings.botOwner || 'Your Soumik'}
+   DEV: ${global.soumik}
 ╚═══════════════════╝
 
 *All Commands:*
